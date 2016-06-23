@@ -1,0 +1,9 @@
+LaunchURL=http\://server/folder
+Save\ Mode=ON_SAVE
+SelectedHostGUID=e50dd029-c12c-4c17-9233-4c9ce4ad5179
+UploadFolder=/ipaynow_wap_server_demo
+eclipse.preferences.version=1
+exclusionPatterns=
+inclusionPatterns=
+isLocalProjectEnabled=false
+isRemoteProjectEnabled=true
